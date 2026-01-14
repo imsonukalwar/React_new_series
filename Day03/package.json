@@ -1,0 +1,21 @@
+{
+  "name": "day03",
+  "version": "1.0.0",
+  "description": "\"my first app react\"",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "dev":"vite",
+    "build":"vite build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3"
+  },
+  "devDependencies": {
+    "vite": "^7.3.1"
+  }
+}
